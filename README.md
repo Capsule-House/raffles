@@ -1,4 +1,4 @@
-# Tunes Project
+# Capsule House Raffle
 
 This repository provides a history of the Capsule House 1/1 Seerlight Raffle system.
 
