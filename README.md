@@ -28,4 +28,14 @@ The capsule at index 1 is 52, so the owner of Capsule 52 wins at the time of the
 
 # Drawing History
 
-11/5/2021 - 2:00 PST PM - Updated repository with snapshot for 1st Seerlight raffle. 
+**11/5/2021 - 2:00 PM PST** - Updated repository with snapshot for 1st Seerlight raffle. 
+
+**11/7/2021 - 12:08 AM PST** - 
+
+Seed for Raffle 1 drawn. https://etherscan.io/tx/0x1b4fe351a3b84211e732e72762c1f8032a3eac2f08302c93f094ee74c68da74a#eventlog
+
+Seed value: 57636575605253221819287095294545447585433931493853993490071723742157202222281
+Qualified capsule length: 7863
+Index of winning capsule: 57636575605253221819287095294545447585433931493853993490071723742157202222281 % 7863 = 4420
+Capsule ID at index 4420: 5497
+Owner of Capsule 5497 at the time of the snapshot: 0x5338035c008ea8c4b850052bc8dad6a33dc2206c
