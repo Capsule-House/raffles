@@ -43,3 +43,6 @@ Index of winning Capsule: 576365756052532218192870952945454475854339314938539934
 Capsule ID at index 4420: 5497
 
 Owner of Capsule 5497 at the time of the snapshot: 0x5338035c008ea8c4b850052bc8dad6a33dc2206c
+
+**11/12/2021 - 12:13 PM PST** - Updated repository with snapshot for 2nd Seerlight raffle. 
+
