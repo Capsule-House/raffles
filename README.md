@@ -46,3 +46,4 @@ Owner of Capsule 5497 at the time of the snapshot: 0x5338035c008ea8c4b850052bc8d
 
 **11/12/2021 - 12:13 PM PST** - Updated repository with snapshot for 2nd Seerlight raffle. 
 
+**11/13/2021 - 12:37 AM PST** - Detected an error in the snapshot - we ran the 30 day filter on the 11/5 snapshot instead of the 11/12 snapshot. Updated accordingly.
