@@ -47,3 +47,17 @@ Owner of Capsule 5497 at the time of the snapshot: 0x5338035c008ea8c4b850052bc8d
 **11/12/2021 - 12:13 PM PST** - Updated repository with snapshot for 2nd Seerlight raffle. 
 
 **11/13/2021 - 12:37 AM PST** - Detected an error in the snapshot - we ran the 30 day filter on the 11/5 snapshot instead of the 11/12 snapshot. Updated accordingly.
+
+**11/14/2021 - 10:22 PM PST** - 
+
+Seed for Raffle 2 drawn. https://etherscan.io/tx/0xe966f177f109665caa1ce8cfe908f52acda099f961128e9d7fd75a59cf8d18a7#eventlog
+
+Seed value: 37855899507775122208549778097242246594503825740719356452670356420104640869944
+
+Total number of qualified Capsules: 8551
+
+Index of winning Capsule: 37855899507775122208549778097242246594503825740719356452670356420104640869944 % 8551 = 2618
+
+Capsule ID at index 2618: 3005
+
+Owner of Capsule 5497 at the time of the snapshot: 0xdc0040f4b2445269681dbe0195309225b061f05f
