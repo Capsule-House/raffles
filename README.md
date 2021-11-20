@@ -28,7 +28,7 @@ The capsule at index 1 is 52, so the owner of Capsule 52 wins at the time of the
 
 # Drawing History
 
-**11/5/2021 - 2:00 PM PST** - Updated repository with snapshot for 1st Seerlight raffle. 
+**11/5/2021 - 2:00 PM PST** - Updated repository with snapshot for 1st Seerlight raffle. All Capsules held since 10/6/21, 12:00 AM PST are valid.
 
 **11/7/2021 - 12:08 AM PST** - 
 
@@ -44,7 +44,7 @@ Capsule ID at index 4420: 5497
 
 Owner of Capsule 5497 at the time of the snapshot: 0x5338035c008ea8c4b850052bc8dad6a33dc2206c
 
-**11/12/2021 - 12:13 PM PST** - Updated repository with snapshot for 2nd Seerlight raffle. 
+**11/12/2021 - 12:13 PM PST** - Updated repository with snapshot for 2nd Seerlight raffle. All Capsules held since 10/13/21, 12:00 AM PST are valid.
 
 **11/13/2021 - 12:37 AM PST** - Detected an error in the snapshot - we ran the 30 day filter on the 11/5 snapshot instead of the 11/12 snapshot. Updated accordingly.
 
@@ -61,3 +61,5 @@ Index of winning Capsule: 378558995077751222085497780972422465945038257407193564
 Capsule ID at index 2618: 3005
 
 Owner of Capsule 5497 at the time of the snapshot: 0xdc0040f4b2445269681dbe0195309225b061f05f
+
+**11/20/2021 - 12:13 PM PST** - Updated repository with snapshot for 3rd Seerlight raffle. All Capsules held since 10/20/21, 12:00 AM PST are valid.
