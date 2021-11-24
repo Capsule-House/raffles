@@ -63,3 +63,17 @@ Capsule ID at index 2618: 3005
 Owner of Capsule 5497 at the time of the snapshot: 0xdc0040f4b2445269681dbe0195309225b061f05f
 
 **11/20/2021 - 12:13 PM PST** - Updated repository with snapshot for 3rd Seerlight raffle. All Capsules held since 10/20/21, 12:00 AM PST are valid.
+
+**11/21/2021 - 8:09 PM PST** -
+
+Seed for Raffle 3 drawn. https://etherscan.io/tx/0x671f0c5bb3c6e2d40864e3ed2a17a2b24428f77e8f00c97a4b898e683f612d55#eventlog
+
+Seed value: 105539164226774516836555908199286429656650560883458093493927699866447208134298
+
+Total number of qualified Capsules: 8916
+
+Index of winning Capsule: 105539164226774516836555908199286429656650560883458093493927699866447208134298 % 8916 = 6707
+
+Capsule ID at index 2618: 7511
+
+Owner of Capsule 7511 at the time of the snapshot: 0x132cf1708ff7fac4cd5c03a0686cdd69106257d3
