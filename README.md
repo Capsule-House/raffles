@@ -80,7 +80,7 @@ Owner of Capsule 7511 at the time of the snapshot: 0x132cf1708ff7fac4cd5c03a0686
 
 **11/29/2021 - 8:08 PM PST** -
 
-Seed for Raffle 3 drawn. https://etherscan.io/tx/0xe8c01899988b89a144ee0411c32bbcfa9160942874b9b672f7f4311572b3ed28#eventlog
+Seed for Raffle 4 drawn. https://etherscan.io/tx/0xe8c01899988b89a144ee0411c32bbcfa9160942874b9b672f7f4311572b3ed28#eventlog
 
 Seed value: 10301601744972363181272346695944750141938055496935636395433916559665116142956
 
@@ -91,4 +91,18 @@ Index of winning Capsule: 105539164226774516836555908199286429656650560883458093
 Capsule ID at index 2618: 189
 
 Owner of Capsule 7511 at the time of the snapshot: 0xa309e257db5c325e4b83510fcc950449447e6bda
+
+**1/9/2022 - 8:12 PM PST** -
+
+Seed for Raffle 5 drawn. https://etherscan.io/tx/0xdd5fbb169bacb614688a7877cc27537a81cbda82abe0ca9555466e854d9a1aea#eventlog
+
+Seed value: 79466748032820420964008606343814198804442356197710291454033873502100874547993
+
+Total number of qualified Capsules: 6684
+
+Index of winning Capsule: 105539164226774516836555908199286429656650560883458093493927699866447208134298 % 8971 = 5477
+
+Capsule ID at index 2618: 8216
+
+Owner of Capsule 7511 at the time of the snapshot: 0x81c2eee2902eda6db28a448d8a814f221718ba2d
 
