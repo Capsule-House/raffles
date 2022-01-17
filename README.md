@@ -60,7 +60,7 @@ Index of winning Capsule: 378558995077751222085497780972422465945038257407193564
 
 Capsule ID at index 2618: 3005
 
-Owner of Capsule 5497 at the time of the snapshot: 0xdc0040f4b2445269681dbe0195309225b061f05f
+Owner of Capsule 3005 at the time of the snapshot: 0xdc0040f4b2445269681dbe0195309225b061f05f
 
 **11/20/2021 - 12:13 PM PST** - Updated repository with snapshot for 3rd Seerlight raffle. All Capsules held since 10/20/21, 12:00 AM PST are valid.
 
@@ -90,7 +90,7 @@ Index of winning Capsule: 105539164226774516836555908199286429656650560883458093
 
 Capsule ID at index 2618: 189
 
-Owner of Capsule 7511 at the time of the snapshot: 0xa309e257db5c325e4b83510fcc950449447e6bda
+Owner of Capsule 189 at the time of the snapshot: 0xa309e257db5c325e4b83510fcc950449447e6bda
 
 **1/9/2022 - 8:12 PM PST** -
 
@@ -104,5 +104,5 @@ Index of winning Capsule: 105539164226774516836555908199286429656650560883458093
 
 Capsule ID at index 2618: 8216
 
-Owner of Capsule 7511 at the time of the snapshot: 0x81c2eee2902eda6db28a448d8a814f221718ba2d
+Owner of Capsule 8216 at the time of the snapshot: 0x81c2eee2902eda6db28a448d8a814f221718ba2d
 
