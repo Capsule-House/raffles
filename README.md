@@ -134,3 +134,19 @@ Capsule ID at index 112: 213
 
 Owner of Capsule 213 at the time of the snapshot: 0x7d4c4d5380Ca2F9C7A091bb622B80613da7Eae8C
 
+**2/12/2022 - 7:12 PM PST** -
+
+Raffle was supposed to be held on 1/29/22 but was delayed.
+
+Seed for Raffle 8 drawn. https://etherscan.io/tx/0x4899484b0adfb09b6cb71531a9e531cdfc9a5b4c0f25e23b56379afca27db5db#eventlog
+
+Seed value: 79357979646986496010954690382556190719352767717494598927108635236291756968363
+
+Total number of qualified Capsules: 5912
+
+Index of winning Capsule: 79357979646986496010954690382556190719352767717494598927108635236291756968363 % 5912 = 112
+
+Capsule ID at index 1795: 
+
+Owner of Capsule 213 at the time of the snapshot: 0x2586181d6544b49060d48f8c1322339ed2876f16
+
