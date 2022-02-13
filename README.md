@@ -148,5 +148,5 @@ Index of winning Capsule: 793579796469864960109546903825561907193527677174945989
 
 Capsule ID at index 1795: 
 
-Owner of Capsule 213 at the time of the snapshot: 0x2586181d6544b49060d48f8c1322339ed2876f16
+Owner of Capsule 3112 at the time of the snapshot: 0x2586181d6544b49060d48f8c1322339ed2876f16
 
