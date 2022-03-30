@@ -178,3 +178,31 @@ Capsule ID at index 4106: 4742
 
 Owner of Capsule 4742 at the time of the snapshot: 0x960b1a74abe556689d1f1e793124f4f8ef27303b
 
+**3/26/2022 - 3:10 PM PST** - 
+
+Seed for Raffle 11 drawn. https://etherscan.io/tx/0xc0c990afb054b7ad2a40ffaad6691b64eb58091c485ea0fbb6ad05e3d06e0a4f#eventlog
+
+Seed value: 252568798447180578805614314918111329216375590692886068807544307927966448269
+
+Total number of qualified Capsules: 8742
+
+Index of winning Capsule: 252568798447180578805614314918111329216375590692886068807544307927966448269 % 8742 = 433
+
+Capsule ID at index 433: 503
+
+Owner of Capsule 503 at the time of the snapshot: 0x24519bB072e7303fE40793a7627cD1DD08EAEECc
+
+**3/26/2022 - 3:10 PM PST** - 
+
+Seed for Raffle 12 drawn. https://etherscan.io/tx/0xce393fbb4abd385b3ca311b23b37479e2b048fbd45ba1464a9290e0d7cc7aa23#eventlog
+
+Seed value: 62636494988781792158688506166880328040563742414274622435847674300236637261413
+
+Total number of qualified Capsules: 8578
+
+Index of winning Capsule: 62636494988781792158688506166880328040563742414274622435847674300236637261413 % 8578 = 4351
+
+Capsule ID at index 4351: 5042
+
+Owner of Capsule 5042 at the time of the snapshot: 0xB670Acb0C39aC590CDeBba50c9d0b7aeD56E40E5
+
