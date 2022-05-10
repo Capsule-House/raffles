@@ -206,3 +206,17 @@ Capsule ID at index 4351: 5042
 
 Owner of Capsule 5042 at the time of the snapshot: 0xB670Acb0C39aC590CDeBba50c9d0b7aeD56E40E5
 
+**5/10/2022 - 12:53 AM PST** - 
+
+Seed for Raffle 13 drawn. https://etherscan.io/tx/0xc89fa4a3bea803d93573adc0a9404a6b1e32773175eb92e1cca095b16261e57c#eventlog
+
+Seed value: 63913340744413336683860231673377012074348012813629700712109603573008592233253
+
+Total number of qualified Capsules: 9045
+
+Index of winning Capsule: 63913340744413336683860231673377012074348012813629700712109603573008592233253 % 9045 = 3663
+
+Capsule ID at index 3663: 4037
+
+Owner of Capsule 5042 at the time of the snapshot: 0x244BeF5aF19D7969280706f37327D01f7cA28d81
+
