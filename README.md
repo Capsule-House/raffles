@@ -317,3 +317,17 @@ Index of winning Capsule: 901189715662268568725993819464738994540290994732610373
 Capsule ID at index 2505: 2627
 
 Owner of Capsule 2627 at the time of the snapshot: 0x594c84B388a2eFf796287A326aCb3775B343C5Ef
+
+**7/27/2022 - 5:42 PM PST** - 
+
+Seed for Raffle 18 drawn. https://etherscan.io/tx/0x06012ce5a65bc19cc0be5cfb06d4cab25e80bf6d0fcb7034ed67b1767a305d9b#eventlog
+
+Seed value: 36019664978232039333473778728341055088606593612878169319690839067601844096264
+
+Total number of qualified Capsules: 9625  
+
+Index of winning Capsule: 36019664978232039333473778728341055088606593612878169319690839067601844096264 % 9625 = 8139
+
+Capsule ID at index 8139: 8453
+
+Owner of Capsule 8453 at the time of the snapshot: 0xB0bDD53b627d7e61cFC5C13EF110e47e210fAc6f
