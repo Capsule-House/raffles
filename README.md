@@ -306,7 +306,7 @@ Owner of Capsule 5755 at the time of the snapshot: 0xD1E561F1C03797c65075912B2cb
 
 **7/20/2022 - 3:08 PM PST** - 
 
-Seed for Raffle 18 drawn. https://etherscan.io/tx/0xe8463cd7269ad8c69f69c4d9aba8b7612f873e019204467aa95c6f32cde202d4#eventlog
+Seed for Raffle 19 drawn. https://etherscan.io/tx/0xe8463cd7269ad8c69f69c4d9aba8b7612f873e019204467aa95c6f32cde202d4#eventlog
 
 Seed value: 32587636520309085382502140057702915504687166056293203466785779352891111241929
 
@@ -320,7 +320,7 @@ Owner of Capsule 2627 at the time of the snapshot: 0x594c84B388a2eFf796287A326aC
 
 **7/27/2022 - 5:42 PM PST** - 
 
-Seed for Raffle 18 drawn. https://etherscan.io/tx/0x06012ce5a65bc19cc0be5cfb06d4cab25e80bf6d0fcb7034ed67b1767a305d9b#eventlog
+Seed for Raffle 20 drawn. https://etherscan.io/tx/0x06012ce5a65bc19cc0be5cfb06d4cab25e80bf6d0fcb7034ed67b1767a305d9b#eventlog
 
 Seed value: 36019664978232039333473778728341055088606593612878169319690839067601844096264
 
@@ -334,7 +334,7 @@ Owner of Capsule 8453 at the time of the snapshot: 0xB0bDD53b627d7e61cFC5C13EF11
 
 **9/7/2022 - 5:30 PM PST** - 
 
-Seed for Raffle 19 drawn. https://etherscan.io/tx/0xb226603bf1fa6fd68339869af1a3154ff8303958cb143b28689bd513fbbcd042#eventlog
+Seed for Raffle 21 drawn. https://etherscan.io/tx/0xb226603bf1fa6fd68339869af1a3154ff8303958cb143b28689bd513fbbcd042#eventlog
 
 Seed value: 65124140896424243438905598858860856786748366212781602221958662457169684142285
 
@@ -348,7 +348,7 @@ Owner of Capsule 9123 at the time of the snapshot: 0xD188E577A7A722c0F8C91f486BD
 
 **9/14/2022 - 5:24 PM PST** - 
 
-Seed for Raffle 20 drawn. https://etherscan.io/tx/0x7baedd73067ebad46b225dbb933d96e837803b9c5655c9afc71a27dacf6127b8#eventlog
+Seed for Raffle 22 drawn. https://etherscan.io/tx/0x7baedd73067ebad46b225dbb933d96e837803b9c5655c9afc71a27dacf6127b8#eventlog
 
 Seed value: 59825552309673891160235397429448492055434794387894780921005349948848829320637
 
@@ -360,9 +360,9 @@ Capsule ID at index 7440: 7738
 
 Owner of Capsule 7738 at the time of the snapshot: 0x65D83F573Be72998FF0b798e4a3F54f0cED4Ee97
 
-**9/20/2022 - 5:24 PM PST** - 
+**9/21/2022 - 5:24 PM PST** - 
 
-Seed for Raffle 20 drawn. https://etherscan.io/tx/0xd72fddf48aec61bafebe9402933f1f4b24fe00c035fa6a2cbcf125f063e843f6#eventlog
+Seed for Raffle 23 drawn. https://etherscan.io/tx/0xd72fddf48aec61bafebe9402933f1f4b24fe00c035fa6a2cbcf125f063e843f6#eventlog
 
 Seed value: 87772999910349253975414817781634438461846229875826653467970483226095406866078
 
@@ -373,5 +373,19 @@ Index of winning Capsule: 877729999103492539754148177816344384618462298758266534
 Capsule ID at index 1203: 1252
 
 Owner of Capsule 1252 at the time of the snapshot: 0x1f2dD54CE97965c6AEe5d860118c326d68a21f63
+
+**9/28/2022 - 5:08 PM PST** - 
+
+Seed for Raffle 24 drawn. https://etherscan.io/tx/0xfd9f92b0c8051480263e913632ae65127832a0c8d58f833ef1380ab9cb5e02c0#eventlog
+
+Seed value: 74804926562071331244769060218632923495373869037305323459936594701815901761194
+
+Total number of qualified Capsules: 9691
+
+Index of winning Capsule: 74804926562071331244769060218632923495373869037305323459936594701815901761194 % 9691 = 2109
+
+Capsule ID at index 2109: 2174
+
+Owner of Capsule 2174 at the time of the snapshot: 0x398017f0a1A3f3e581F2F91578549F20A3Eaf6A2
 
 
